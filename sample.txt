@@ -1,1 +1,5 @@
 SampleText
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit commit which is for commit.
+
